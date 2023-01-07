@@ -17,6 +17,8 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+
+
 ![](https://github.com/angularOcean/codepath_prework/blob/main/example.gif)
 
 
